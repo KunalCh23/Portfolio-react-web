@@ -1,0 +1,31 @@
+/* style={{ textAlign: "center", marginLeft: 'auto', color: '#fff', marginRight: 'auto', marginTop: '100px', width: '60%', backgroundImage: url("../../assets/About/3898677.jpg"), padding: '20px'}} */
+.about-container{
+
+    
+    /* text-align: "center"; */
+    display: flex;
+    margin-top: 2rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    justify-content: center;
+    font-family: 'Segoe UI';
+    background-image: url(../../assets/About/3898677.jpg);
+    background-position: center;
+    background-size: cover; 
+    font-weight: 500;
+} 
+.about-parent h1{
+    margin-top: 2rem;
+    text-align: center;
+    color: #fff
+}
+.about-parent h4{
+    color: #fff;
+}
+.about-parent section{
+    /* color: #fff; */
+}
+
+
+/* style={{fontSize: '50px', textTransform: 'uppercase', fontFamily: 'Anton, sans-serif'}} */
+/* style={{textAlign: 'justify', fontFamily: 'Oxygen, sans-serif'}} */
